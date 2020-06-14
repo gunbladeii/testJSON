@@ -1,7 +1,7 @@
 <?php 
   class Database {
     // DB Params
-    private $host = 'localhost';
+    private $host = '42.1.60.115';
     private $db_name = 'testJSON';
     private $username = 'matz';
     private $password = 'Sh@ti5620';
